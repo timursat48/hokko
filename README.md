@@ -1,1 +1,1 @@
-# hokko.github.com
+# hokko
